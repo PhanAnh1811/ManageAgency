@@ -176,6 +176,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="ThuNo.resx">
       <DependentUpon>ThuNo.cs</DependentUpon>
@@ -218,6 +219,18 @@
       <DependentUpon>DaiLyModel.edmx</DependentUpon>
       <LastGenOutput>DaiLyModel.cs</LastGenOutput>
     </Content>
+    <None Include="Resources\visible-32.png" />
+    <None Include="Resources\hiclipart.com.png" />
+    <None Include="Resources\eye-3-32.png" />
+    <Content Include="Resources\logo.png" />
+    <None Include="Resources\logo1.png" />
+    <Content Include="Resources\minus-7-xxl.png" />
+    <None Include="Resources\user-xxl.png" />
+    <None Include="Resources\padlock-xxl.png" />
+    <None Include="Resources\padlock-xxl1.png" />
+    <None Include="Resources\minus-7-xxl1.png" />
+    <Content Include="Resources\uni.jpg" />
+    <None Include="Resources\userb-xxl.png" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
